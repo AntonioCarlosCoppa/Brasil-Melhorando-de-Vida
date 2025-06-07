@@ -26,5 +26,3 @@ Veja nosso [Roadmap](documentos/roadmap.md).
 
 ## Contato
 E-mail: antonioccoppa@pm.me
-
-
